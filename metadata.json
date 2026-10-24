@@ -1,0 +1,6 @@
+{
+  "name": "OpenHub - Beginner Open-Source Portal",
+  "description": "A refined open-source portal for engineering students to discover beginner-friendly GitHub repositories, filter good first issues for Hacktoberfest, and analyze codebases with AI-powered entry point guides and Git cheat sheets.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
